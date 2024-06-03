@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LastPencilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-19T23:57:21" hostname="DESKTOP-H5RF6H1" time="0.597">
+  <properties/>
+  <testcase name="start" classname="LastPencilTest" time="0.597"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+How many pencils would you like to use:
+> 1
+Who will be the first (Name1, Name2):
+?[1;31m
+Start test 2?[0m
+How many pencils would you like to use:
+> 5
+Who will be the first (Name1, Name2):
+> Name1
+|||||
+Name1 is going first!
+?[1;31m
+Start test 3?[0m
+How many pencils would you like to use:
+> 20
+Who will be the first (Name1, Name2):
+> Name1
+||||||||||||||||||||
+Name1 is going first!
+?[1;31m
+Start test 4?[0m
+How many pencils would you like to use:
+> 300
+Who will be the first (Name1, Name2):
+> Name1
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Name1 is going first!
+?[1;31m
+Start test 5?[0m
+How many pencils would you like to use:
+> 5
+Who will be the first (Name1, Name2):
+> Name2
+|||||
+Name2 is going first!
+?[1;31m
+Start test 6?[0m
+How many pencils would you like to use:
+> 20
+Who will be the first (Name1, Name2):
+> Name2
+||||||||||||||||||||
+Name2 is going first!
+?[1;31m
+Start test 7?[0m
+How many pencils would you like to use:
+> 300
+Who will be the first (Name1, Name2):
+> Name2
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Name2 is going first!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
